@@ -1,5 +1,5 @@
 ### Hi there! Welcome to my space👋
-![Briocodes](/briocodes.jpeg)
+![Briocodes](https://github.com/[briocodes]/[briocodes]/blob/[branch]/briocodes.jpeg?raw=true)
 
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
