@@ -1,5 +1,5 @@
 ### Hi there! Welcome to my space👋
-![Briocodes](/okg/briocodes.jpeg)
+![Briocodes](/briocodes/briocodes.jpeg)
 
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
