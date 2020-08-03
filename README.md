@@ -1,5 +1,5 @@
 ### Hi there! Welcome to my space👋
-<img src="https://raw.githubusercontent.com/briocodes/briocodes/master/briodroid.png" alt="Briocodes Profile Banner"></a>
+<img src="https://raw.githubusercontent.com/briocodes/master/briodroid.png" alt="Briocodes Profile Banner"></a>
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
