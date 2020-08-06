@@ -1,4 +1,4 @@
-![Social banner for Briocodes](https://github.com/briocodes/briocodes/raw/master/images/briodroid--optimized.svg)
+![Social banner for Briocodes](https://github.com/briocodes/briocodes/raw/master/images/briodroid--optimized.png
 
 ### Hi there! Welcome to my space👋
 
