@@ -3,7 +3,7 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/briocodes/count.svg" />
 </p>
-[![Exchange](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
+[![Profile](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
 
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
