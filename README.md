@@ -1,4 +1,8 @@
 ### Hi there! Welcome to my space👋
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/briocodes/count.svg" />
+</p>
 
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
