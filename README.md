@@ -1,12 +1,13 @@
 ### Hi there! Welcome to my space👋
 <p align="left"> 
   <b>Visitors count</b><br>
-  <img src="https://profile-counter.glitch.me/briocodes/count.svg" /><br>
-  <img src="https://github.com/briocodes/briocodes/blob/master/images/briodroid.png />
+  <img src="https://profile-counter.glitch.me/briocodes/count.svg" />
 </p>
-[![Profile](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
 
 <!--
+[![Profile](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
+
+
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
