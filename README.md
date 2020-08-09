@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my space👋
 <p align="left"> 
-  <b>Visitor count</b><br>
+  <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/briocodes/count.svg" />
 </p>
 [![Profile](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
