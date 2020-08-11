@@ -4,7 +4,7 @@
 
 * **I currently work with:** Java + Kotlin + Android Studio
 
-You can find me on [Twitter](https://twitter.com/briocodes) if you want to chat.
+If you wanna chat, let's connect on [Twitter](https://twitter.com/briocodes).
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
