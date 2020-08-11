@@ -1,6 +1,6 @@
 ### Hi there! I'm Bright. Welcome to my space👋
 
-:sparkles:I am a budding Software Engineer who specializes in Android development:sparkles:
+:sparkles:I am a budding Software Engineer who specializes in Android App Development:sparkles:
 
 I currently work with Java + Kotlin + Android Studio
 <!--
