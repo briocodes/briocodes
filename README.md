@@ -1,13 +1,9 @@
-### Hi there! Welcome to my space👋
-<p align="left"> 
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/briocodes/count.svg" />
-</p>
+### Hi there! I'm Bright. Welcome to my space👋
 
-<!--
-[![Profile](https://github.com/briocodes/briocodes/blob/master/images/briodroid.png)]
+:sparkles:I am a budding Software Engineer who specializes in Android development:sparkles:
 
-
+I currently work with Java + Kotlin + Android Studio
+<--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
