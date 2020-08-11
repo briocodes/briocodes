@@ -3,6 +3,7 @@
 * I am a budding Software Engineer, specializing in Android App Development.
 
 * **I currently work with:** Java + Kotlin + Android Studio
+
 You can find me on [Twitter](https://twitter.com/briocodes) if you want to chat.
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
