@@ -3,7 +3,7 @@
 :sparkles:I am a budding Software Engineer who specializes in Android development:sparkles:
 
 I currently work with Java + Kotlin + Android Studio
-<--
+<!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
