@@ -1,4 +1,4 @@
-### Hi there! I'm Bright.👋
+### Hey! I'm Bright.👋
 
 * I am a Software Engineer, specializing in **_Android Development_**.
 
