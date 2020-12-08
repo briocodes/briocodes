@@ -1,10 +1,13 @@
-### Hey! I'm Bright.👋
+### Yeah, it's Bright.
 
-* I am a Software Engineer, specializing in **_Android Development_**.
+* An enthusiastic Software Engineer, specialized in **Android Development** with a passion for building scalable Mobile Apps.
 
-* **I currently work with:** Java + Kotlin + Android Studio
+* **Currently working on:** Java • Kotlin • Android • Firebase.
+* Passionate about Open Source and community contributions.
+* Constantly learning to become a better version of myself.
+* Fun fact: In love with Piano and Guitar.
 
-You can find me on [Twitter](https://twitter.com/briocodes) if you want to chat. Let's connect.
+You can find me on [Twitter](https://twitter.com/briocodes) where I tweet about stuffs I find interesting.
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
