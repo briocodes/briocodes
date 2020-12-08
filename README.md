@@ -4,7 +4,7 @@
 
 ### Yeah, it's Bright.
 
-* An enthusiastic Software Engineer, specialized in **Android Development** with a passion for building scalable Mobile Apps.
+* An enthusiastic Software Engineer, specialized in **Android Development**, with a passion for building scalable Mobile Apps.
 
 * **Mostly work with:** Java • Android • Kotlin • Firebase.
 * Passionate about Open Source and community contributions.
