@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="150" width="1000"/>
+  <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="100" width="1000"/>
 </p>
 
 ### Yeah, it's Bright.
