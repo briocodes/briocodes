@@ -6,7 +6,7 @@
 
 * An enthusiastic Software Engineer, specialized in **Android Development**, with a passion for building scalable Mobile Apps.
 
-* **Mostly work with:** Java • Android • Kotlin • Firebase.
+* **Mostly working with:** Java • Android • Kotlin • Firebase.
 * Passionate about Open Source and community contributions.
 * Constantly learning to become a better version of myself.
 * Fun fact: In love with Piano and Guitar.
