@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eeeeee&vCenter=true&lines=WELCOME+TO+MY+GITHUB+PROFILE;A+SOFTWARE+ENGINEER;ANDROID+DEVELOPER;FULLSTACK+JAVA+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;)](https://git.io/typing-svg)
+<h3 align="center">
+  WELCOME TO BRIGHT OKWU'S GITHUB PROFILE!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/briocodes"><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE%20ENGINEER;ANDROID%20DEVELOPER;FULLSTACK%20JAVA%20DEVELOPER;OPEN%20SOURCE%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&font=monospace&center=true&width=440&height=45&color=c0c0c0&vCenter=true&size=22"></a>
+</p>
 
 <p align = "center">
   <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="130" width="100%"/>
