@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eeeeee&vCenter=true&lines=WELCOME+TO+MY+GITHUB+PROFILE;I'M+A+SOFTWARE+ENGINEER;ANDROID+DEVELOPER;FULLSTACK+JAVA+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eeeeee&vCenter=true&lines=WELCOME+TO+MY+GITHUB+PROFILE;A+SOFTWARE+ENGINEER;ANDROID+DEVELOPER;FULLSTACK+JAVA+DEVELOPER;OPEN+SOURCE+ENTHUSIAST;)](https://git.io/typing-svg)
 
 <p align = "center">
   <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="130" width="100%"/>
