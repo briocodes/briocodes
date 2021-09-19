@@ -2,7 +2,7 @@
   <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="130" width="100%"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3CCF23&vCenter=true&lines=Welcome+to+my+Github+profile;I'm+a+Software+Engineer;Android+Developer;Fullstack+Java+Developer;Open+Source+Enthusiaste;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eeeeee&vCenter=true&lines=Welcome+to+my+Github+profile;I'm+a+Software+Engineer;Android+Developer;Fullstack+Java+Developer;Open+Source+Enthusiaste;)](https://git.io/typing-svg)
 ### Yeah, it's Bright.
 
 * An enthusiastic Software Engineer, specialized in **Android Development**, with a passion for building scalable Mobile Apps.
