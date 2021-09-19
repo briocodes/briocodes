@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/briocodes"><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE%20ENGINEER;ANDROID%20DEVELOPER;FULLSTACK%20JAVA%20DEVELOPER;OPEN%20SOURCE%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&font=tahoma&center=true&width=400&height=50&color=c0c0c0&vCenter=true&size=22"></a>
+  <a href="https://github.com/briocodes"><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE%20ENGINEER;ANDROID%20DEVELOPER;FULLSTACK%20JAVA%20DEVELOPER;OPEN%20SOURCE%20ENTHUSIAST;ALWAYS%20LEARNING%20NEW%20THINGS&font=tahoma&center=true&width=400&height=50&color=c0c0c0&vCenter=true&size=18"></a>
 </p>
 
 <p align = "center">
