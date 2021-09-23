@@ -35,16 +35,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<a href="https://github.com/briocodes">
-<img align="right" width="410"  src="https://github-readme-stats.vercel.app/api?username=briocodes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Briocodes" />
-</a>
-</p>
 
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>Additional Profile Stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bright Okwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briocodes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bright Okwu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=briocodes&show_icons=true&count_private=true&theme=gotham&hide_border=false&include_all_commits=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bright Okwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briocodes&langs_count=8&layout=compact&theme=gotham&hide_border=false&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
