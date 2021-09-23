@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
     <a href="https://github.com/briocodes"><img alt="Bright Okwu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=briocodes&show_icons=true&count_private=true&theme=gotham&hide_border=true&include_all_commits=true" height="192px"/></a>
-  <a href="https://github.com/briocodes"><img alt="Bright Okwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briocodes&langs_count=8&layout=compact&theme=gotham&hide_border=true&hide=Jupyter%20Notebook" height="192px"/></a><br/>
   </details>
 
 
