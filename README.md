@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github stats
+### Github stats
 
 
 <details> 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/briocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="briocodes" height="30" width="40" /></a>
 <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bright-okwu" height="30" width="40" /></a>
-<a href= mailto: briocodes@gmail.com><img align="center" alt="Bright's Mail" width="40px" src="https://img.icons8.com/color/2x/gmail-login.png" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
