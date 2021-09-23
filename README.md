@@ -15,7 +15,7 @@
 
 * An enthusiastic Software Engineer, specialized in **Android Development**, with a passion for building scalable Mobile Apps.
 
-* **Mostly working with:** Java • Android • Kotlin • Firebase.
+* Mostly working with: Java • Android • Kotlin • Firebase.
 * Passionate about Open Source and community contributions.
 * Constantly learning to become a better version of myself.
 * Fun fact: In love with Piano and Guitar.
@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-    <a href="https://github.com/briocodes"><img alt="Bright Okwu's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=briocodes&show_icons=true&count_private=true&theme=gotham&hide_border=true&include_all_commits=true" height="192px"/></a>
+    <a href="https://github.com/briocodes"><img alt="Bright Okwu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=briocodes&show_icons=true&count_private=true&theme=gotham&hide_border=true&include_all_commits=true" height="192px"/></a>
   <a href="https://github.com/briocodes"><img alt="Bright Okwu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briocodes&langs_count=8&layout=compact&theme=gotham&hide_border=true&hide=Jupyter%20Notebook" height="192px"/></a><br/>
-  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+  </details>
 
 
 <h3 align="left">Connect with me:</h3>
