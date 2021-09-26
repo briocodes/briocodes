@@ -1,7 +1,7 @@
 <h3 align="center">
   WELCOME TO MY GITHUB PROFILE!
 <p>
-  <a href="https://github.com/briocodes" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <a href="https://github.com/briocodes" target="_blank" alt="Bright Okwu's Image Header"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </p>
 </h3>
 
