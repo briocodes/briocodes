@@ -1,8 +1,8 @@
 <h3 align="center">
   WELCOME TO MY GITHUB PROFILE!
-<p>
-  <a href="https://github.com/briocodes" target="_blank" alt="Bright Okwu's Image Header"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    </p>
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
-  <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="130" width="100%"/>
+ <a href= "https://github.com/briocodes" target="_blanc"> <img src="https://github.com/briocodes/briocodes/blob/master/briodroid.png?raw=true" height="130" width="100%"/> </a>
 </p>
 
 ### Yeah, it's Bright.
