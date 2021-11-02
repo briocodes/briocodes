@@ -66,5 +66,7 @@ Here are some ideas to get you started:
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="AndroidStudio" width="40" height="40"/></a>
+<a href="https://dart.dev"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="DartLang" width="40" height="40"/></a>
+<a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
 
