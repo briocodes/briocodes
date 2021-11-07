@@ -18,7 +18,7 @@
 * An enthusiastic Software Engineer, specialized in **Mobile Development**, with a passion for building scalable Mobile Apps.
 
 * Mostly working with: Java • Android • Kotlin • Firebase.
-* Passionate about Open Source and community contributions, and exploring **Backend** && **Full Stack Development** with Java.
+* Passionate about Open Source and community contributions, and exploring **Backend** && **Full Stack Development** with Java, Spring Boot, Vuejs.
 * Constantly learning to become a better version of myself.
 * Fun fact: In love with Piano and Guitar.
 
