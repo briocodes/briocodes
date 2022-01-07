@@ -10,7 +10,7 @@
 </p>
 
 <p align = "center">
- <a href= "https://github.com/briocodes" target="_blanc"> <img src="https://github.com/briocodes/briocodes/blob/master/briodroid2.png?raw=true" height="130" width="100%"/> </a>
+ <a href= "https://github.com/briocodes" target="_blanc"> <img src="https://github.com/briocodes/briocodes/blob/master/briodroid4.png?raw=true" height="130" width="100%"/> </a>
 </p>
 
 ### Yeah, it's Bright.
