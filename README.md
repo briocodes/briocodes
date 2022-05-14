@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/briocodes"><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE%20ENGINEER;ANDROID%20DEVELOPER;CONSTANTLY%20LEARNING%20TO%20IMPROVE&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
+  <a href="https://github.com/briocodes"><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE%20ENGINEER;ANDROID%20DEVELOPER&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
 </p>
 
 <p align = "center">
