@@ -18,7 +18,7 @@
 * An enthusiastic Software Engineer, specialized in **Mobile Development**, with a passion for building scalable Mobile Apps.
 
 * Mostly working with: Java • Android • Kotlin • Firebase.
-* Passionate about Open Source and community contributions, and exploring **Backend** && **Full Stack Development** with Java, Spring Boot, Vuejs.
+* Passionate about Open Source and community contributions. 
 * Constantly learning to become a better version of myself.
 * Fun fact: In love with Piano and Guitar.
 
@@ -60,14 +60,8 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntellijIDE" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="40" height="40"/> </a>
 </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a>
-</a> <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot"> <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="40" height="40"/></a>
-</a> <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="AndroidStudio" width="40" height="40"/></a>
-<a href="https://dart.dev"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="DartLang" width="40" height="40"/></a>
-<a href="https://flutter.dev"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
 
