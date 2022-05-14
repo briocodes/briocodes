@@ -21,8 +21,6 @@
 * Passionate about Open Source and community contributions. 
 * Constantly learning to become a better version of myself.
 * Fun fact: In love with Piano and Guitar.
-
-You can find me on **Twitter**, where I tweet about stuffs I find interesting.
 <!--
 **briocodes/briocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
